@@ -1,0 +1,23 @@
+﻿  Using triplet "x86-windows" from "C:\DEV\vcpkg\installed\x86-windows\"
+  ED_ProductoIntegrador.cpp
+C:\Users\Oscar\source\repos\ED_ProductoIntegrador\ED_ProductoIntegrador\LibreriaED.h(42,19): warning C4101: 'inicio': variable local sin referencia
+C:\Users\Oscar\source\repos\ED_ProductoIntegrador\ED_ProductoIntegrador\LibreriaED.h(401,31): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Oscar\source\repos\ED_ProductoIntegrador\ED_ProductoIntegrador\LibreriaED.h(446,19): warning C4101: 'inicio': variable local sin referencia
+C:\Users\Oscar\source\repos\ED_ProductoIntegrador\ED_ProductoIntegrador\LibreriaED.h(580,19): warning C4101: 'inicio': variable local sin referencia
+C:\Users\Oscar\source\repos\ED_ProductoIntegrador\ED_ProductoIntegrador\LibreriaED.h(771,19): warning C4101: 'inicio': variable local sin referencia
+C:\Users\Oscar\source\repos\ED_ProductoIntegrador\ED_ProductoIntegrador\LibreriaED.h(963,19): warning C4101: 'inicio': variable local sin referencia
+C:\Users\Oscar\source\repos\ED_ProductoIntegrador\ED_ProductoIntegrador\LibreriaED.h(1158,19): warning C4101: 'inicio': variable local sin referencia
+C:\Users\Oscar\source\repos\ED_ProductoIntegrador\ED_ProductoIntegrador\LibreriaED.h(1402,31): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Oscar\source\repos\ED_ProductoIntegrador\ED_ProductoIntegrador\LibreriaED.h(1419,31): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Oscar\source\repos\ED_ProductoIntegrador\ED_ProductoIntegrador\LibreriaED.h(1426,31): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Oscar\source\repos\ED_ProductoIntegrador\ED_ProductoIntegrador\LibreriaED.h(1439,35): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Oscar\source\repos\ED_ProductoIntegrador\ED_ProductoIntegrador\LibreriaED.h(1441,39): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Oscar\source\repos\ED_ProductoIntegrador\ED_ProductoIntegrador\LibreriaED.h(1730,31): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Oscar\source\repos\ED_ProductoIntegrador\ED_ProductoIntegrador\LibreriaED.h(1838,23): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Oscar\source\repos\ED_ProductoIntegrador\ED_ProductoIntegrador\LibreriaED.h(1898,44): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Oscar\source\repos\ED_ProductoIntegrador\ED_ProductoIntegrador\LibreriaED.h(2000,26): warning C4101: 'dir2': variable local sin referencia
+C:\Users\Oscar\source\repos\ED_ProductoIntegrador\ED_ProductoIntegrador\LibreriaED.h(2433,28): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Oscar\source\repos\ED_ProductoIntegrador\ED_ProductoIntegrador\LibreriaED.h(2436,31): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Oscar\source\repos\ED_ProductoIntegrador\ED_ProductoIntegrador\LibreriaED.h(2751,28): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Oscar\source\repos\ED_ProductoIntegrador\ED_ProductoIntegrador\LibreriaED.h(2774,32): warning C4018: '<': no coinciden signed/unsigned
+  ED_ProductoIntegrador.vcxproj -> C:\Users\Oscar\source\repos\ED_ProductoIntegrador\Debug\ED_ProductoIntegrador.exe
